@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio Code\Arreglo\Arreglo\obj\Debug\Arreglo.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio Code\Arreglo\Arreglo\obj\Debug\Arreglo.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Visual Studio Code\Arreglo\Arreglo\obj\Debug\Arreglo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio Code\Arreglo\Arreglo\bin\Debug\Arreglo.exe.config
+C:\Users\User\Documents\Visual Studio Code\Arreglo\Arreglo\bin\Debug\Arreglo.exe
+C:\Users\User\Documents\Visual Studio Code\Arreglo\Arreglo\bin\Debug\Arreglo.pdb
+C:\Users\User\Documents\Visual Studio Code\Arreglo\Arreglo\obj\Debug\Arreglo.exe
+C:\Users\User\Documents\Visual Studio Code\Arreglo\Arreglo\obj\Debug\Arreglo.pdb
